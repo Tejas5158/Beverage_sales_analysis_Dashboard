@@ -1,3 +1,4 @@
+Order_ID    ,Customer_ID,Customer_Type,Product,Category,Unit_Price,Quantity,Discount,Total_Price,Region,Order_Date
 ORD13428,CUS4637,B2B,Rauch Multivitamin,Juices,4.08,73,0.15,253.16,Niedersachsen,02-06-2023
 ORD13428,CUS4637,B2B,Vittel,Water,0.78,83,0.1,58.27,Niedersachsen,02-06-2023
 ORD13428,CUS4637,B2B,Merlot,Alcoholic Beverages,8.97,69,0.1,557.04,Niedersachsen,02-06-2023
